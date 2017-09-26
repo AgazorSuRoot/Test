@@ -1,0 +1,15 @@
+# ignore all logs
+*.a 
+*.d
+*.c
+*.hex
+*.lss
+*.map
+*.srec
+*.eep
+*.elf
+*.xml
+*.atsuo
+*.atsln
+*.mk
+*.cppproj
